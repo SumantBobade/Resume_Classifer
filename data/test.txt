@@ -1,0 +1,33 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1 123-456-7890
+LinkedIn: linkedin.com/in/johndoe
+GitHub: github.com/johndoe
+
+Objective:
+To obtain a challenging position as a Software Engineer where I can apply my programming skills and contribute to impactful projects.
+
+Skills:
+- Programming Languages: Python, Java, C++
+- Web Development: HTML, CSS, JavaScript, React
+- Databases: MySQL, MongoDB
+- Tools: Git, Docker, Linux, Visual Studio Code
+
+Experience:
+Software Engineering Intern
+TechNova Solutions | Jan 2023 – July 2023
+- Developed REST APIs using Flask and integrated with a MySQL database.
+- Created frontend dashboards using React.js for internal admin tools.
+- Participated in agile sprint planning and code reviews.
+
+Projects:
+- Chat Application: Built a real-time chat app using WebSocket and Node.js.
+- Portfolio Website: Personal responsive site built with HTML, CSS, and JavaScript.
+
+Education:
+Bachelor of Technology in Computer Engineering
+XYZ University | 2020 – 2024
+
+Certifications:
+- Python for Everybody – Coursera
+- Full Stack Web Development – Udemy
